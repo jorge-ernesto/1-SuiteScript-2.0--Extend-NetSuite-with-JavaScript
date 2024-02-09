@@ -1,0 +1,7 @@
+---- Preguntas ----
+
+1. Como crear botones en el modo "Ver"
+2. He visto los modulos N/record, N/email, N/ui/dialog, N/search, que otros modulos recomedarias revisar
+3. He creado paginas personalizadas, formularios con su boton de enviar, etc. me preguntaba si al crear estas paginas junto con el modulo N/query y obtener datos, como podria hacer para que se vean como una busqueda guardada en la misma pagina?
+4. Lo normal es usar N/query o el API de Netsuite para obtener datos?
+5. Podrias confirmar cual es la documentación para SuiteScript?
